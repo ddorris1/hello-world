@@ -2,5 +2,5 @@
 
 Hi Earthlings!
 
-Doug here, transitioning my career to front end web development and eventually full stack. 
-I'm vegan and enjoy extreme sports in my spare time!
+Douglas here, an native electrical engineer mistakenly found on a journey to gaining skills in the Cloud. Feel free to join me on the adventure! :) 
+I enjoy mountain biking, skateboarding fishing and learning new technology! 
